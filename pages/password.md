@@ -24,8 +24,8 @@ title: password
 ## LATER 正在做的事情
 :PROPERTIES:
 :doing: 1610005699191
-:done: 1610005718454
 :later: 1610005720170
+:done: 1610005718454
 :END:
 ## DONE 已完成的事情
 :PROPERTIES:
