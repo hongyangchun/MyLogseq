@@ -21,12 +21,17 @@ title: password
 :PROPERTIES:
 :todo: 1610005691795
 :END:
-## DOING 正在做的事情
+## LATER 正在做的事情
 :PROPERTIES:
 :doing: 1610005699191
+:done: 1610005718454
+:later: 1610005720170
 :END:
 ## DONE 已完成的事情
 :PROPERTIES:
 :done: 1610005716123
 :END:
+## [#A] 这是什么
+## [#B] 这又是什么
+## [#C] 这还是什么
 ##
