@@ -35,4 +35,6 @@ title: password
 ## [#B] 这又是什么
 ## [#C] 这还是什么
 ## DEADLINE: <2021-01-08 Fri> 一定要完成
-## {{query password}}
+## [[2021-01-07-15-50-30-process.excalidraw]]
+<iframe class="draw-iframe" src="/draw?file=2021-01-07-15-50-30-process.excalidraw" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+##
